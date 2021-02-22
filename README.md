@@ -15,4 +15,4 @@ The about me section contains all the relevant information you need to know abou
 <img src ="img/screenshot4.png" alt=" scr4">
 
 And at the end of the page, you will find a block with my contacts
-<img src ="img/screenshot1.png" alt=" scr5">
+<img src ="img/screenshot5.png" alt=" scr5">
