@@ -1,7 +1,7 @@
 # Portfolio
 
 This is my portfolio.
-(The site itself is not three-page, but there are links to my own sites, so we can assume that the site is three-page)
+
 First, we are greeted by an inscription with my name and navigation bar with which you can switch between sections.
 <img src ="img/screenshot1.png" alt=" scr1">
 
